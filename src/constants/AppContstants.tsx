@@ -1,0 +1,1 @@
+export const WISHLIST_STORAGE = 'wishlist';

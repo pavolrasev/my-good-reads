@@ -11,6 +11,7 @@ $gray80: #333333;
 $gray85: #262626;
 $black: #000000;
 $white: #ffffff;
+$red: #c70000;
 $spacing-3xs: 0.25rem;
 $spacing-xxs: 0.5rem;
 $spacing-xs: 1rem;
@@ -19,3 +20,9 @@ $spacing-med: 2.5rem;
 $spacing-lg: 1.625rem;
 $spacing-xl: 5rem;
 $spacing-xxl: 7.5rem;
+
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+$breakpoint-xxl: 1400px;
